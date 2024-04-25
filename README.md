@@ -8,4 +8,3 @@ For PIDs data and other improtant parameters, check the "Setup" folder.
 
 For weather measurement and autonomous navigation data, check the "Data" folder.
 
-For testing image and videos, check the "Images and Videos" folder.
