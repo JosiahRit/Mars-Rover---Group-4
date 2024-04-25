@@ -3,6 +3,9 @@
 
 
 In this project, we will design and build a Mars Rover, which can measure the weather data and autonomous navigation through waypoint.
+
 For PIDs data and other improtant parameters, check the "Setup" folder.
+
 For weather measurement and autonomous navigation data, check the "Data" folder.
+
 For testing image and videos, check the "Images and Videos" folder.
