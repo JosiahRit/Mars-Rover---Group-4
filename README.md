@@ -8,3 +8,4 @@ For PIDs data and other improtant parameters, check the "Setup" folder.
 
 For weather measurement and autonomous navigation data, check the "Data" folder.
 
+You can check our full summary report in "Summary Report.md" file.
