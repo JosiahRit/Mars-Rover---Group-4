@@ -10,6 +10,6 @@ The distance between each dot is 10 meters, which means the large square is 30 m
 
 ![image](https://github.com/Ekumi9743/Mars-Rover---Group-4/assets/161907227/61d98a09-e480-4647-b7ef-b27451ab8e93)
 
-For errors (distance) from the designed path, you can check the "xtrack.png". The maximun error is 1.44m and the mean of error is 0.07m.
+For errors (distance) from the designed path, you can check the "xtrack.png". The maximun error is 1.44m and the mean of error is 0.23m (see "xtrackmean.png")
 
 The full test file is "test.BIN".
