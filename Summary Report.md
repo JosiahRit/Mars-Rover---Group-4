@@ -6,7 +6,7 @@ The goal of this project was to build, configure, debug, and enhance the perform
 
 1. Tuning
 
-Tuning was crucial for proper rover functionality, especially for autonomous navigation. We engaged in extensive PID tuning to optimize turning accuracy and navigation in Acro mode. Despite several challenges,such as the GPS navigation failing and causing the rover to only reverse in a straight line, we managed to significantly refine these settings for better performance.
+Tuning was crucial for proper rover functionality, especially for autonomous navigation. We engaged in extensive PID tuning to optimize turning accuracy and navigation in Acro mode. Despite several challenges, such as the GPS navigation failing and causing the rover to only reverse in a straight line, we managed to significantly refine these settings for better performance.
 
 3. Data Analysis
 
